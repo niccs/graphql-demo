@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+
+    "users": [
+        {"id": "23", "firstName": "Neetika", "companyId": "222"},
+        {"id": "25", "firstName": "Shally", "companyId": "111"},
+        {"id": "28", "firstName": "Mark", "companyId": "333"}
+    ]
+
+
+}
